@@ -1,0 +1,15 @@
+{
+	"name": "socketio-client-tool",
+	"version": "1.0.0",
+	"description": "Node.js command line tool to emulate socket.io client, and test server events.",
+	"main": "./src/index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [],
+	"author": "Jacob Schnettler",
+	"license": "ISC",
+	"dependencies": {
+		"socket.io-client": "^4.7.5"
+	}
+}
